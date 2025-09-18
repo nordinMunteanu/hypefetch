@@ -1,0 +1,32 @@
+#include <iostream>
+
+int main(){
+
+std::cout<<"                 \033[95mutttt ttttt                 \n";
+std::cout<<"                u\033[97mssss\033[95mt t\033[97msssstst\033[95mt             \n";
+std::cout<<"          v     s\033[97mssss\033[95mt t\033[97mssssssssss\033[95mt          \n";
+std::cout<<"      uttst     s\033[97mssss\033[95mt t\033[97msssst\033[95ms\033[97mtssssstt\033[95mu      \n";
+std::cout<<"  tt  t\033[97msss\033[95mt     s\033[97mssss\033[95mt t\033[97mssss\033[95ms  ttst\033[97msssssst\033[95mt  \n";
+std::cout<<"tu\033[97mss\033[95mt t\033[97msss\033[95mt     s\033[97mssss\033[95mt t\033[97mssss\033[95ms      t\033[97msttsssss\033[95mt\n";
+std::cout<<"t\033[97msss\033[95mt t\033[97msss\033[95mt     s\033[97mssss\033[95mt t\033[97mssss\033[95ms       j\033[97mttsss\033[95msss\n";
+std::cout<<"s\033[97msss\033[95mt t\033[97mssst\033[95mp    s\033[97mssss\033[95mt t\033[97mssss\033[95ms    j\033[97mtstss\033[95msst   \n";
+std::cout<<"s\033[97msss\033[95mt t\033[97mssssststuussss\033[95mt t\033[97mssssu\033[95mutst\033[97mst\033[95mtutf    tt\n";
+std::cout<<"s\033[97msss\033[95mt  n\033[97msttssssstssss\033[95mt t\033[97msssstssss\033[95mtf'    s\033[97mttt\033[95ms\n";
+std::cout<<"s\033[97msss\033[95mt      mtts\033[97mssssss\033[95mt t\033[97msssss\033[95msst'   ttts\033[97mssss\033[95ms\n";
+std::cout<<"s\033[97msssstt\033[95mp       n\033[97mtssss\033[95mt t\033[97mssss\033[95mt'  ttts\033[97msssss\033[95mtstf\n";
+std::cout<<"s\033[97msssssss\033[95mstsp    s\033[97mssss\033[95mt t\033[97mssss\033[95ms tt\033[97msssss\033[95msttf    \n";
+std::cout<<"s\033[97mssst\033[95mt\033[97mssssss\033[95mttt s\033[97mssss\033[95mt t\033[97mssss\033[95ms s\033[97mssss\033[95mtf      ,s\n";
+std::cout<<"s\033[97msss\033[95mt utst\033[97mssss\033[95mt ss\033[97msss\033[95mt t\033[97mssss\033[95ms s\033[97msss\033[95mt   ,tttt\033[97mt\033[95ms\n";
+std::cout<<"s\033[97msss\033[95mt     t\033[97msss\033[95ms s\033[97mssss\033[95mt t\033[97mssss\033[95ms s\033[97mssst,ttttst\033[95mstt\n";
+std::cout<<"s\033[97msss\033[95mt     t\033[97msss\033[95ms s\033[97mssss\033[95mt t\033[97mssss\033[95ms s\033[97msssstst\033[95mtttf   \n";
+std::cout<<"s\033[97msss\033[95mt     t\033[97msss\033[95ms s\033[97mssss\033[95mt t\033[97mssss\033[95ms s\033[97mssstt\033[95mtf     ,s\n";
+std::cout<<"s\033[97msss\033[95mt     t\033[97msss\033[95ms s\033[97mssss\033[95mt t\033[97mssss\033[95ms s\033[97mssst\033[95mf    ,ut\033[97ms\033[95ms\n";
+std::cout<<"s\033[97msss\033[95mt     t\033[97msss\033[95ms s\033[97mssss\033[95mt t\033[97mssss\033[95ms s\033[97msss\033[95mt ,rtt\033[97mssss\033[95ms\n";
+std::cout<<"ts\033[97mss\033[95mt     t\033[97msss\033[95ms s\033[97mssss\033[95mt t\033[97mssss\033[95ms s\033[97mssst\033[95mt\033[97mstsssss\033[95mst\n";
+std::cout<<"  ut      t\033[97msss\033[95ms s\033[97mssss\033[95mt t\033[97mssss\033[95ms s\033[97mssssssss\033[95msssu  \n";
+std::cout<<"          t\033[97msss\033[95ms s\033[97mssss\033[95mt t\033[97mssss\033[95ms s\033[97msssss\033[95mtst      \n";
+std::cout<<"          vtt\033[97ms\033[95ms s\033[97mssss\033[95mt t\033[97mssss\033[95ms s\033[97ms\033[95mttts         \n";
+std::cout<<"             tt t\033[97mssss\033[95mt t\033[97mssss\033[95mt tf             \n";
+std::cout<<"                 tttst tttsf                 \n";
+
+}
